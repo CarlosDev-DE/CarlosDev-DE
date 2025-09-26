@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Carlos 👋
 
-<!--
-**CarlosDev-DE/CarlosDev-DE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Developer | Vue.js • Node.js • Java
+🚀 Building bots, dashboards & modern UIs
+🌱 Currently learning: DevOps, Trading Automation
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+## 📂 Featured Projects
+
+* 🤖 [Discord Bot System](https://github.com/CarlosDev-DE/discord-bot-system)
+* 📊 [Vue.js Dashboard](https://github.com/CarlosDev-DE/vue-dashboard)
+* 🎄 [Advent Calendar Bot](https://github.com/CarlosDev-DE/advent-bot)
+
+---
+
+📫 Reach me on Discord: `carlos_870`
